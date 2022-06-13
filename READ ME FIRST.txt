@@ -1,0 +1,15 @@
+### REQUIRMENTS (MODULES) ###
+
+Python 3.0 or greater is required
+Pygame #pip install pygame
+Python-Chess #pip install python-chess
+Random # pip install random
+
+### INSTRUCTIONS ### 
+#[1]YOU NEED TO ENTER THE PASSWORD TO OPEN THE ZIP FILE
+#[2] EXTRACT THE ZIP 
+#[3] FIRST DOUBLE-CLICK ON THE SETUP FILE (setup.py)
+#[4] THEN OPEN THE APPLICATION FILE (.exe)
+#[5]ENJOY THE GAME OF CHESS
+#[6]ALSO GET THE ZIP IN MY GIT HUB "Samanyu_V"
+#[7]PASSWORD IS "SAMANYU-CHECKMATE"
